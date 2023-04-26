@@ -1,0 +1,1 @@
+​		hive表常用的存储格式主要包括： orc 、 parquet 、 textfile 、 sqeuencefile 几种，存储格式一般会选择综合性能最好的 orc 或者 parquet ，这两种都是列式存储格式。 压缩格式一般会选择 snappy 、 lzo 、 gizp ，针对不同的应用场景使用不同的压缩方式。
